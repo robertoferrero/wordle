@@ -1,4 +1,4 @@
-# Exemple: grep  '.[[=o=]].[[=i=]].' paraules_5lletres.txt | grep 't\+a\+' | grep -v '[restadln]'
+# Exemple: grep  '.[[=o=]].[[=i=]].' paraules_5lletres.txt | grep 't' | grep 'a' | grep -v '[restadln]'
 # Llistat extret de https://www.paraulesamb.com/cercar.php
 abacà
 abans
