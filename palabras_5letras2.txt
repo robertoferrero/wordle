@@ -1,4 +1,4 @@
-# Ejemplo: grep  '.[[=o=]].[[=i=]].' palabras_5letras.txt | grep 't\+a\+' | grep -v '[restadln]'
+# Ejemplo: awk '/.e.a./{print}' palabras_5letras2.txt | grep 't\+a\+' | grep -v '[restadln]'
 # Frecuencia letras: e(14), a(12), o(9), s(8), r(7), n(6.5), i(6), d(6), l(5), t(4.5), c(4.5), u(4), m(3)
 ababa
 abaca
