@@ -209,7 +209,6 @@ alita
 aljub
 allar
 allau
-al.le
 allen
 aller
 allet
@@ -4021,7 +4020,6 @@ ollam
 ollao
 oller
 olles
-ol.li
 olors
 oloti
 ombra
