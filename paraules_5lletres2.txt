@@ -1,4 +1,4 @@
-# Exemple: awk '/.e.a./{print}' paraules_5lletres2.txt | grep 't\+a\+' | grep -v '[restadln]'
+# Exemple: grep '.e.a.' paraules_5lletres2.txt | grep t | grep -v '[restadln]'
 # Llistat extret de https://www.paraulesamb.com/cercar.php
 abaca
 abans
