@@ -214,6 +214,7 @@ aller
 allet
 allop
 allos
+allot
 almon
 almud
 alocs
@@ -1344,7 +1345,6 @@ cocou
 cocul
 coder
 codex
-codis
 codis
 codol
 coell
@@ -2937,6 +2937,7 @@ ileal
 iliac
 illes
 illot
+illus
 ilota
 imada
 imago
@@ -4750,6 +4751,7 @@ raims
 rajar
 rajol
 ralet
+ralli
 ramal
 ramar
 ramas
@@ -5741,6 +5743,7 @@ tiges
 tigre
 tigre
 tijat
+tilla
 timal
 timba
 timic
@@ -6203,6 +6206,7 @@ vigor
 vilar
 viler
 viles
+villa
 vimec
 vimen
 vimer
