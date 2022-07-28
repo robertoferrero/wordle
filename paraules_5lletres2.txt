@@ -1684,7 +1684,6 @@ diria
 disco
 discs
 dista
-distr
 ditec
 dites
 ditet
