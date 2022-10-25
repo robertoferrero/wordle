@@ -1,6 +1,3 @@
-# Ejemplo: grep '.e.a.' palabras_5letras2.txt | grep t | grep -v '[restadln]'
-# Ejemplo: grep '....a' palabras_5letras2.txt  | grep -v '[retdio]' | grep -Ev '..s..|...s.' | grep s |grep u
-# Frecuencia letras: e(14), a(12), o(9), s(8), r(7), n(6.5), i(6), d(6), l(5), t(4.5), c(4.5), u(4), m(3)
 ababa
 abaca
 abaco
