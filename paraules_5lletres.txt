@@ -1,4 +1,3 @@
-# Exemple: grep '.....' paraules_5lletres2.txt  | grep -v '[rtaig]' | grep -Ev '.e...|....e|s....|..s..|...n.' | grep -E 's|e'
 # Llistat extret de https://www.paraulesamb.com/cercar.php
 abaca
 abans
